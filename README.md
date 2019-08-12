@@ -1,12 +1,20 @@
 ## Letramento Digital: como utilizar o YouTube?
 
 - Evento no site [**SESCSP**](https://www.sescsp.org.br/programacao/198889_LETRAMENTO+DIGITAL+COMO+UTILIZAR+O+YOUTUBE)
-- [Slides da Oficina](yt-1.html)
+
+### Slides da Oficina
+
+[Aula 1](yt-1.html)
+[Aula 2](yt-2.html)
 
 ## Editando fotografias: introdução ao Darktable e fluxos de trabalho
 
 - Evento no site [**SESCSP**](https://www.sescsp.org.br/programacao/198891_EDITANDO+FOTOGRAFIAS+INTRODUCAO+AO+DARKTABLE+E+FLUXOS+DE+TRABALHO)
-- [Slides da Oficina](https://docs.google.com/presentation/d/15sAkesnu0ItHZtcYUE2K7jGUZrhkLIvmlinMkDZzmwk/edit#slide=id.g5e622d58b8_0_224)
+
+### Slides da Oficina
+
+[Aula 1](https://docs.google.com/presentation/d/15sAkesnu0ItHZtcYUE2K7jGUZrhkLIvmlinMkDZzmwk/edit#slide=id.p)
+[Aula 2](https://docs.google.com/presentation/d/1xOc7O_9Otcm-OxMkcD3_GYeYGIV16HeZK5cHqOiMc8k/edit#slide=id.p)
 
 ## Quem somos nós?
 
