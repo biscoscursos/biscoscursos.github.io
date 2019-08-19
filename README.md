@@ -4,8 +4,9 @@
 
 ### Slides da Oficina
 
-[Aula 1](yt-1.html)
-[Aula 2](yt-2.html)
+- [Aula 1](yt-1.html)
+- [Aula 2](yt-2.html)
+- [Aula 2](yt-3.html)
 
 ## Editando fotografias: introdução ao Darktable e fluxos de trabalho
 
@@ -13,8 +14,8 @@
 
 ### Slides da Oficina
 
-[Aula 1](https://docs.google.com/presentation/d/15sAkesnu0ItHZtcYUE2K7jGUZrhkLIvmlinMkDZzmwk/edit#slide=id.p)
-[Aula 2](https://docs.google.com/presentation/d/1xOc7O_9Otcm-OxMkcD3_GYeYGIV16HeZK5cHqOiMc8k/edit#slide=id.p)
+- [Aula 1](https://docs.google.com/presentation/d/15sAkesnu0ItHZtcYUE2K7jGUZrhkLIvmlinMkDZzmwk/edit#slide=id.p)
+- [Aula 2](https://docs.google.com/presentation/d/1xOc7O_9Otcm-OxMkcD3_GYeYGIV16HeZK5cHqOiMc8k/edit#slide=id.p)
 
 ## Quem somos nós?
 
