@@ -7,6 +7,7 @@
 - [Aula 1](yt-1.html)
 - [Aula 2](yt-2.html)
 - [Aula 3](yt-3.html)
+- [Aula 4](yt-4.html)
 
 ## Editando fotografias: introdução ao Darktable e fluxos de trabalho
 
@@ -18,6 +19,7 @@
 - [Aula 2](https://docs.google.com/presentation/d/1xOc7O_9Otcm-OxMkcD3_GYeYGIV16HeZK5cHqOiMc8k/edit#slide=id.p)
 - [Aula 3](https://docs.google.com/presentation/d/1CGrr4TbrycY9Ia2ye8NeY8mstmlpckXWNV4zenR4d2Q/edit#slide=id.p)
 - [Aula 3 - Referências](https://docs.google.com/presentation/d/1soc6Ib0S66DPmppUoeB1abnnp7DYYz466XtYF34aUM0/edit#slide=id.p)
+- [Aula 4](https://docs.google.com/presentation/d/1JvBoSEMHtGvr7V608be6GKTnwL8yGkPcvHUDfWf9Cb0/edit#slide=id.p)
 
 ## Quem somos nós?
 
