@@ -20,6 +20,7 @@
 - [Aula 3](https://docs.google.com/presentation/d/1CGrr4TbrycY9Ia2ye8NeY8mstmlpckXWNV4zenR4d2Q/edit#slide=id.p)
 - [Aula 3 - Referências](https://docs.google.com/presentation/d/1soc6Ib0S66DPmppUoeB1abnnp7DYYz466XtYF34aUM0/edit#slide=id.p)
 - [Aula 4](https://docs.google.com/presentation/d/1JvBoSEMHtGvr7V608be6GKTnwL8yGkPcvHUDfWf9Cb0/edit#slide=id.p)
+- [Aula 4 - Projetos](https://docs.google.com/presentation/d/18OeAsWm6iAW_tcERzK2V9Wm-KDWRlpmK_5s-_Vd24uk/edit#slide=id.p)
 
 ## Quem somos nós?
 
